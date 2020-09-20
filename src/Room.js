@@ -9,7 +9,7 @@ export function Room() {
   return (
     <div className={`room ${isLit? "lit" : "dark"}`}>
 
-      The Room is : {isLit ? 'light' : 'Dark'}
+      The Room Is : {isLit ? 'light' : 'Dark'}
 
       <br />
 
