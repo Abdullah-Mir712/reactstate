@@ -9,7 +9,7 @@ export function App() {
   
   return (
     <div className="design">
-      <h1>
+      <h1 className="text">
     <Room />
 
     </h1>
